@@ -1,0 +1,71 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	background-color: #f3eded;
+}
+
+
+
+h1 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h2{
+	font-size: 1.25rem;
+	font-weight: 700;
+}
+hr{
+	border: 1px solid #004e90;
+}
+.fas{
+	padding: 7px 10px;
+	background-color: #00c4b9;
+	margin-right: 12px;
+}
+.resumen {
+	background-color: #00c5b8;
+	color: #fff;
+	padding: 15px;
+	
+}
+.name{
+	font-size: 2.25rem;
+	letter-spacing: 0.175rem;
+	font-weight: 700;
+}
+.foto img{
+	width: 100%; 
+	border: 4px solid;
+}
+.informacion{
+	
+}
+.resumen .title{
+	font-size: 1.5rem;
+}
+.resumen-social{
+	font-size: 0.875rem;
+	list-style-type: none;
+}
+.description{
+	padding: 15px;
+}
+.resumen-body{
+	background-color: #fff;
+}
+.titulos{
+	background-color: #e9ecef;
+}
+.progress-bar{
+	background-color: #008e86;
+}
+.progress{
+	border-radius: 0 !important;
+}
+.resume-position-title{
+	font-size: 1.125rem;
+
+}
+.resume-position-time{
+	font-size: .875rem;
+	color: #aab4c3;
+}
